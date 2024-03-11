@@ -1,0 +1,4 @@
+/home/ubuntu/pipeline/java/sample-java-programs/highcpu/src/main/java/com/github/chrishantha/sample/highcpu/HighCpuApplication.java
+/home/ubuntu/pipeline/java/sample-java-programs/highcpu/src/main/java/com/github/chrishantha/sample/highcpu/SleepingWorker.java
+/home/ubuntu/pipeline/java/sample-java-programs/highcpu/src/main/java/com/github/chrishantha/sample/highcpu/HashingWorker.java
+/home/ubuntu/pipeline/java/sample-java-programs/highcpu/src/main/java/com/github/chrishantha/sample/highcpu/MathWorker.java
